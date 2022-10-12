@@ -6,7 +6,7 @@ Me considero una persona muy apasionada por mi trabajo, de hecho no lo veo como 
 
 Habilidades: HTML / CSS / JS
 
-- 🔭 Estoy trabajando en Ariadna Comunications Group
+- 🔭 Estoy trabajando en DDB Colombia
 - 🌱 Estoy aprendiendo React 
 - 👯 Quiero colaborar con Open Source 
 - 🤔 Necesito ayuda con English 
