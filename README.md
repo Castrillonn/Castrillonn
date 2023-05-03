@@ -10,9 +10,6 @@ Habilidades: HTML / CSS / JS
 - 🌱 Estoy aprendiendo React 
 - 👯 Quiero colaborar con Open Source 
 - 🤔 Necesito ayuda con English 
-- 📫 Cómo contactarme: donjuancastrillon@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Castrillonn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/castri11on/)  
+- 📫 Cómo contactarme: donjuancastrillon@gmail.com
 
 ![Profile views](https://gpvc.arturio.dev/Castrillonn)
