@@ -4,10 +4,10 @@
 
 Me considero una persona muy apasionada por mi trabajo, de hecho no lo veo como un trabajo, sino como un sistema de retos que me traen una gran alegría y satisfacción llevarlos a cabo y entregarlos con cariño.
 
-Habilidades: HTML / CSS / JS
+Habilidades: HTML / CSS / JS / GIT / SASS
 
 - 🔭 Estoy trabajando en DDB Colombia
-- 🌱 Estoy aprendiendo React 
+- 🌱 Estoy aprendiendo VUE.js 
 - 👯 Quiero colaborar con Open Source 
 - 🤔 Necesito ayuda con English 
 - 📫 Cómo contactarme: donjuancastrillon@gmail.com
